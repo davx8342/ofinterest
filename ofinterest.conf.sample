@@ -1,0 +1,6 @@
+ROOTPATH="/opt/ofinterest"
+VARPATH="${ROOTPATH}/var"
+ETCPATH="${ROOTPATH}/etc"
+SSHKEY="${ROOTPATH}/etc/keys/id_ofinterest_rsa"
+SSHUSER="root"
+EMAILADDRESS="your@email.address"
